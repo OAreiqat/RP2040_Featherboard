@@ -6,7 +6,7 @@
     "hidden_nets": [
       "GND",
       "+5V",
-      "+3V3",
+      "Net-(Y1-Pad1)",
       "+BATT",
       "+1V1"
     ],
